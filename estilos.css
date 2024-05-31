@@ -212,7 +212,7 @@ nav .enlaces a:hover{
 
 .card{
   display: flex;
-  justify-content: space;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
